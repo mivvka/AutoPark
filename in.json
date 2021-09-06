@@ -1,0 +1,62 @@
+{
+  "park": {
+    "places": 30
+  },
+  "drivers": [
+    {
+      "type": "default"
+    },
+    {
+      "type": "default"
+    },
+    {
+      "type": "default"
+    },
+    {
+      "type": "advanced"
+    },
+    {
+      "type": "advanced"
+    },
+    {
+      "type": "default"
+    },
+    {
+      "type": "default"
+    }
+  ],
+  "cars": [
+    {
+      "km": 11951,
+      "brand": "Homba"
+    },
+    {
+      "km": 20512,
+      "brand": "Luda"
+    },
+    {
+      "km": 10300,
+      "brand": "Luda"
+    },
+    {
+      "km": 13951,
+      "brand": "Homba"
+    },
+    {
+      "km": 25512,
+      "brand": "Homba"
+    },
+    {
+      "km": 10367,
+      "brand": "Luda"
+    },
+    {
+      "km": 69300,
+      "brand": "Hendai"
+    },
+    {
+      "km": 1300,
+      "brand": "Hendai"
+    }
+  ]
+}
