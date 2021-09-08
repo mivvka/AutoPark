@@ -25,12 +25,14 @@ class Driver{ // обычный водитель
     {
         return $this->car;
     }
+
     /**
      * @param int
+     * @return bool
      */
-    public function taxing($distance)
+    public function taxing($distance): bool
     {
-        $this->car->drive($distance);
+        return $this->car->drive($distance);
     }
 }
 
